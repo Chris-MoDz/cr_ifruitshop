@@ -1,3 +1,4 @@
+--[[Discord : discord.gg/VhNxmgu]]
 ESX = nil
 
 TriggerEvent('esx:getSharedObject', function(obj) ESX = obj end)
@@ -38,3 +39,5 @@ AddEventHandler('cr_ifruitshop:Buysim', function()
          TriggerClientEvent('esx:showNotification', source, "Vous n'avez assez ~r~d\'argent")
     end
 end)
+
+--[[Discord : discord.gg/VhNxmgu]]

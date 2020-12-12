@@ -1,3 +1,4 @@
+--[[Discord : discord.gg/VhNxmgu]]
 ESX = nil
 
 Citizen.CreateThread(function()
@@ -167,3 +168,4 @@ Citizen.CreateThread(function()
         end
     end)
     
+--[[Discord : discord.gg/VhNxmgu]]

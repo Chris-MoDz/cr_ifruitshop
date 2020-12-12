@@ -7,7 +7,7 @@
 print("")
 print("^1Crée par : CR^0")
 print("^4Pour : H&C Dev^0")
-print("^1Discrod : discord.gg/VhNxmgu^0")
+print("^1Discord : discord.gg/VhNxmgu^0")
 print("")
 
 
