@@ -2,7 +2,7 @@
 
 --> Permet d'acheter un téléphone et une carte sim
 
---> Avec un blip présent sur la map
+--> blip présent sur la map
 
 ------------------------------------------------------Discord------------------------------------------------------
 
