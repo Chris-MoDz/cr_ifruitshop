@@ -1,3 +1,5 @@
+# cr_ifruitshop
+
 --> Script fait en RageUI
 
 --> Permet d'acheter un téléphone et une carte sim
