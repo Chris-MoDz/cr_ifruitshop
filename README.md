@@ -1,4 +1,4 @@
-# cr_ifruitshop
+# cr_ifruitshop Présentation
 
 --> Script fait en RageUI
 
@@ -6,13 +6,13 @@
 
 --> Blip présent sur la map
 
-------------------------------------------------------Discord------------------------------------------------------
+# Discord
 
 --> Discord : https://discord.gg/VhNxmgu
 
 --> Retrouvez moi sur discord : CR#9463
 
-------------------------------------------------------Aperçu------------------------------------------------------
+# Aperçu
 
 --> Aperçu : https://steamuserimages-a.akamaihd.net/ugc/1652222771903054239/9A336668139F165390815AE485D2E2181EE70B42/
 
